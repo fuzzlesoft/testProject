@@ -1,0 +1,17 @@
+git downloading
+_____________
+git pull
+git pull --rebase
+
+example.fle
+
+git status * this checks to see which files are loaded
+
+git add or git add -A * these adds the file to the staging area
+
+git commit -m "message" * this commits files in the staging area to be sent
+
+git push * sends the added and committed files 
+
+sometimes if you don't have a message for committ, you will be taken to vim
+to edit this simple type ":wq" to leave
