@@ -1,10 +1,19 @@
 git downloading
-_____________
-git pull
+
+
+
+__________________________________________________
+
+git clone "url"
+
+git pull *this is how you download new info
 git pull --rebase
 
 example.fle
 
+
+git staging and changing master
+____________________________________________________________
 git status * this checks to see which files are loaded
 
 git add or git add -A * these adds the file to the staging area
